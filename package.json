@@ -33,6 +33,6 @@
   },
   "optionalDependencies": {
     "@vercel/kv": "^3.0.0",
-    "@vercel/node": "^3.2.24"
+    "@vercel/node": "^5.5.25"
   }
 }
