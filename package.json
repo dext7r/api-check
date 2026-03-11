@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "dotenv": "^16.4.5",
-    "express": "^4.21.1"
+    "express": "^4.22.1"
   },
   "devDependencies": {
     "@ant-design/icons-vue": "^7.0.1",
